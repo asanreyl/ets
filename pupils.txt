@@ -8,7 +8,7 @@ lin yi
 
 gustavo
 
-margot 
+margoooot 
 
 daniel
 
@@ -16,8 +16,23 @@ Victor Zamorano Lopez
 
 andres 27/09 ¿quien es andres?
 
+#Fin
 
+
+
+<<<<<<< HEAD
+
+<<<<<<< HEAD
   
 Subteacher.- Yo
+=======
+
+=======
+# Finaldetodotodo
+
+
+  
+Jazael
+>>>>>>> 86936285feed38fa103871c651d94602a3cf21c5
 
 ruben melian
