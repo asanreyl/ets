@@ -8,7 +8,7 @@ lin yi
 
 gustavo
 
-margot 
+margoooot 
 
 daniel
 
@@ -16,7 +16,17 @@ Victor Zamorano Lopez
 
 andres 27/09 ¿quien es andres?
 
-yesenia rodríguez
+#Fin
+
+
+
+<<<<<<< HEAD
+
+
+=======
+# Finaldetodotodo
+
+
   
 Jazael
 
