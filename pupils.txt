@@ -3,20 +3,22 @@
   Angel Luis Santana Reyes
 
 # Pupils - Add surname and name to the file
- 
+ saul ojeda
 lin yi
 
 gustavo
 
 margoooot 
 
-daniel
+daniel Ojeda
 
 Airam
 
 Victor Zamorano Lopez
 
 andres 27/09 ¿quien es andres?
+
+Daikel
 
 #Fin
 
@@ -34,7 +36,8 @@ Subteacher.- Yo
 
 
   
-Jazael
+Jazael (27/09/2023)
+
 >>>>>>> 86936285feed38fa103871c651d94602a3cf21c5
 
 ruben melian
