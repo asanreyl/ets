@@ -4,7 +4,7 @@
 
 # Pupils - Add surname and name to the file
  saul ojeda
-lin yi
+lin yi #el delegado de clase ♡
 
 gustavo
 
@@ -13,6 +13,8 @@ margoooot
 daniel
 
 Victor Zamorano Lopez
+
+richard
 
 andres 27/09 ¿quien es andres?
 
